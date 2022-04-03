@@ -11,20 +11,20 @@ export default function index() {
           <div className="store-product hat">
             <img src="/hat.jpg" alt="" height={200} />
             <div className="product-details">
-              <h4>hat product</h4>
               <p>
-                <span>69.60 USD</span>
-              </p>
+                <span>hat shop</span>
+              </p>{" "}
+              <h4>69.60 USD</h4>
               <a href="#">cart</a>
             </div>
           </div>
           <div className="store-product shirt">
             <img src="/shirt.jpg" alt="" height={200} />
             <div className="product-details">
-              <h4>shirt product</h4>
               <p>
-                <span>69.60 USD</span>
-              </p>
+                <span>hat shop</span>
+              </p>{" "}
+              <h4>69.60 USD</h4>
               <a href="#">cart</a>
             </div>
           </div>
