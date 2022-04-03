@@ -3,9 +3,9 @@ import React from "react";
 export default function index() {
   return (
     <div>
-      <h6>
-        yellow dresses<span> - I found 150 products for you</span>
-      </h6>
+      <h7>
+        yellow dresses<span> -I found 150 products for you</span>
+      </h7>
       <div className="slide-container">
         <section className="container" id="store-product">
           <div className="store-product hat">

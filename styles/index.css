@@ -8,7 +8,7 @@
   padding: 20px;
 }
 
-form input {
+/* form input {
   width: 30rem;
   padding: 1 rem;
   border: none;
@@ -27,7 +27,7 @@ input button {
   border-radius: 5px;
   border-bottom: 2px solid var(--color-sec);
   margin-bottom: 2 rem;
-}
+} */
 .btn {
   font-size: 1.4rem;
   text-decoration: none;
